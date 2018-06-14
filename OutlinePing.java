@@ -1,4 +1,4 @@
-import java.awt.BorderLayout;
+﻿import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -23,7 +23,7 @@ import javax.swing.border.BevelBorder;
 public class OutlinePing extends JFrame {
 	
 	public OutlinePing() {
-		//메뉴 시작 부분
+		//메뉴 시작 부분//
 		JMenuBar menubar = new JMenuBar();
 		setJMenuBar(menubar);
 		
